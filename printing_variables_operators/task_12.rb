@@ -1,3 +1,5 @@
+# Divide 100 by 4, store the result in a variable, and print it.
+
 num_1 = 100
 num_2 = 4
 
