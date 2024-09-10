@@ -1,3 +1,5 @@
-remainder = 57 % 7
+# Find the remainder when 29 is divided by 4 and print it.
 
-print "The remainder of 70 divided by 7 is #{remainder}."
+remainder = 29 % 4
+
+print "The remainder of 29 divided by 4 is #{remainder}."
