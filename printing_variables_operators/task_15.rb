@@ -1,3 +1,5 @@
+# Create two variables, x and y, and swap their values. Print both before and after swapping.
+
 x = 7
 y = 4
 
