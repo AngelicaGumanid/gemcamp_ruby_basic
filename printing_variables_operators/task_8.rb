@@ -1,3 +1,5 @@
+# Create two variables: one for your birth year and one for the current year.
+
 birth_year = 2001
 current_year = 2024
 
