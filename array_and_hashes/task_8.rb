@@ -2,4 +2,6 @@
 # [85, 90, 78, 92, 88]
 
 students_scores = [85, 90, 78, 92, 88]
-students_scores.each_with_index.max[1]
+highest_score = students_scores.max
+
+print "The highest score is #{highest_score} in #{students_scores}."
