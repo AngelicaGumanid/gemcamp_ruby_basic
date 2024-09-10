@@ -1,3 +1,5 @@
+# Create a variable for a favorite food and print it three times.
+
 favorite_food = "Apple Grapes!"
 
 x = 3
