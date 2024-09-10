@@ -1,4 +1,3 @@
-city = "Taguig"
-city = "This is the sentence for the city"
+city = "Taguig City"
 
-print city
+print "This is the sentence for the city which is #{city}"
