@@ -1,3 +1,5 @@
+# Concatenate three strings: your name, hobby, and favorite color, and print them.
+
 name = "Angelica Rose Gumanid"
 hobby = "reading, playing and listening to music"
 favorite_color = "blue and black"
