@@ -1,3 +1,5 @@
+# Store the sum of 45 and 10 in a variable and print it.
+
 num_1 = 45
 num_2 = 10
 
