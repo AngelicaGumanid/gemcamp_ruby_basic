@@ -1,3 +1,5 @@
+# Ask the user to input two numbers, multiply them, and print the result.
+
 print "Give any number: "
 input = gets.chomp
 print "Give any number to multiply to the first number: "
