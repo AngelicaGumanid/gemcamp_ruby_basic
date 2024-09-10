@@ -1,3 +1,5 @@
+# Multiply two numbers, store the result, and print it.
+
 number_1 = 22
 number_2 = 33
 
