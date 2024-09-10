@@ -1,3 +1,3 @@
-result = 45 - 11
+difference = 45 - 11
 
-print "The difference of 45 minus 11 is #{result}."
+print "The difference of 45 minus 11 is #{difference}."
