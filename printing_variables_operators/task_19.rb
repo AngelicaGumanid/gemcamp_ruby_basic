@@ -8,4 +8,4 @@ integer_value2 = input2.to_i
 
 result = integer_value1 * integer_value2
 
-puts "#{integer_value1} multiplied to #{integer_value2}, the result is #{result}"
+puts "#{integer_value1} multiplied to #{integer_value2}, the result is #{result}."
