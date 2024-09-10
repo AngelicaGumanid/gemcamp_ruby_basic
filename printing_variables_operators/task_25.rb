@@ -1,3 +1,5 @@
+# Create a variable for the current temperature in Celsius and convert it to Fahrenheit. Print both values.
+
 temperature_celsius = 25
 temperature_fahrenheit = (temperature_celsius * 9/5) + 32
 
