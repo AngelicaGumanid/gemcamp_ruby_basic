@@ -1,3 +1,3 @@
-quotient = 100 / 5
+product = 7 * 9
 
-print "The quotient of 100 divided to 5 is #{quotient}."
+print "The product of 7 multiply by 9 is #{product}."
