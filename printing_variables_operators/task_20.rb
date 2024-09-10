@@ -1,3 +1,5 @@
+# Ask the user for their birth year, calculate how old they will be in 5 years, and print it.
+
 print "What is your birth year? "
 input_birthyear = gets.chomp
 current_year = 2024
@@ -9,4 +11,3 @@ age = current_year - interger_value
 five_years_age = age + 5
 
 print "The current year is #{current_year} and your birth year is #{interger_value}. Your current age now is #{age} and in the next 5 years will be #{five_years_age}."
-
