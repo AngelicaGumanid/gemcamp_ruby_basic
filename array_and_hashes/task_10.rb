@@ -4,4 +4,4 @@
 countries = ["USA", "Canada", "Mexico", "Germany", "France"]
 index = countries.index("Mexico")
 
-puts "The index of 'Mexico' is #{index}."
+print "The index of 'Mexico' is #{index}."
