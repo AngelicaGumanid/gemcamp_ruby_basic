@@ -3,4 +3,4 @@
 family = ["John", "Alice", "Emma", "David"]
 last_name = family[-1]
 
-puts "The last name in the array is #{last_name}."
+print "The last name in the array is #{last_name}."
