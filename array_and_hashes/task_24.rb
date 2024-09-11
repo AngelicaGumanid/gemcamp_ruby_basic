@@ -5,4 +5,4 @@ person = { name: "John", age: 25, city: "New York" }
 
 person[:job] = "developer"
 
-puts "The updated hash is #{person}."
+print "The updated hash is #{person}."
