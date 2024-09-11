@@ -13,5 +13,5 @@ integer_value2 = number2.to_i
 if integer_value1 == integer_value2
   puts "The #{integer_value1} and #{integer_value2} numbers are equal."
 else
-  puts "The #{integer_value1} and #{integer_value2} numbers are not equal."
+  puts "The #{integer_value1} and #{integer_value2} numbers are not equal. "
 end
