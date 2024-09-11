@@ -2,6 +2,6 @@
 # ["apple", "banana", "cherry", "date"]
 
 fruits = ["apple", "banana", "cherry", "date"]
-fruits[4] = "orange"
+fruits.push ("orange")
 
 print "Updated list of array of Fruits: #{fruits}"
