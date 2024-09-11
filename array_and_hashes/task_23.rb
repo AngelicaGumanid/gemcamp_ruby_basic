@@ -2,4 +2,4 @@
 
 favorite_books = { first: { title: "Book One", author: "Author One" }, second: { title: "Book Two", author: "Author Two" }, third: { title: "Book Three", author: "Author Three" } }
 
-puts "The author of the second book is '#{favorite_books[:second][:author]}'."
+print "The author of the second book is '#{favorite_books[:second][:author]}'."
