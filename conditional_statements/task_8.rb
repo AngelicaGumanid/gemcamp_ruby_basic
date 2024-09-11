@@ -2,11 +2,9 @@
 # If it is, print The number is a multiple of 5.
 
 print "Enter a number: "
-number = gets.chomp
+number = gets.to_i
 
-integer_value = number.to_i
-
-if (integer_value % 5) == 0
+if (number % 5) == 0
   puts "The number is a multiple of 5."
 else
   puts "The number is not a multiple of 5."
