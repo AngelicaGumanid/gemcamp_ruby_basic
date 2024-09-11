@@ -3,4 +3,4 @@
 animals = ["dog", "cat", "hamster", "panda", "sloth"]
 animals[2] = "butterfly"
 
-puts "The updated array of animals is #{animals}."
+print "The updated array of animals is #{animals}."
