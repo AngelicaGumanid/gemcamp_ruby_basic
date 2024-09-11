@@ -5,4 +5,4 @@ shopping_cart = { shoes: 50, bag: 30, watch: 20 }
 
 shopping_cart.delete(:watch)
 
-puts "The updated shopping cart hash is #{shopping_cart}."
+print "The updated shopping cart hash is #{shopping_cart}."
