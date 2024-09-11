@@ -5,4 +5,4 @@ colors2 = ["yellow", "purple", "pink"]
 
 combined_colors = colors1 + colors2
 
-puts "The combined array is: #{combined_colors}."
+print "The combined array is: #{combined_colors}."
