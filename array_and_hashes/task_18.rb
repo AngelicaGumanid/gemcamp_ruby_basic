@@ -3,4 +3,4 @@
 numbers = [1, 2, 3, 4, 5, 3, 1]
 unique_values = numbers.uniq
 
-puts "The unique values are #{unique_values}."
+print"The unique values are #{unique_values}."
