@@ -2,3 +2,6 @@
 # ["USA", "Canada", "Mexico", "Germany", "France"]
 
 countries = ["USA", "Canada", "Mexico", "Germany", "France"]
+index = countries.index("Mexico")
+
+puts "The index of 'Mexico' is #{index}."
