@@ -3,5 +3,5 @@
 items = ["cellphone", "powerbank", "laptop", "camera", "wallet"]
 
 items.each_with_index do|item, index|
-  puts "Item #{index}: #{item}"
+  print "Item #{index}: #{item}"
 end
