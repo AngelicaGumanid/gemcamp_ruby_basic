@@ -8,5 +8,5 @@ word = gets.chomp
 if word.include? "a"
   puts "The word contains the letter 'a'"
 else
-  puts "The word does not contain the letter 'a'"
+  puts "The word does not contain the letter 'a' "
 end
