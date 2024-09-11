@@ -6,5 +6,5 @@ word = gets.chomp
 if word.length >= 5
   puts "The word is long."
 else
-  puts "The word is short."
+  puts "The word is short. "
 end
