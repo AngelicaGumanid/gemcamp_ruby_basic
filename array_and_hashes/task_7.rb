@@ -4,4 +4,4 @@ favorite_movies = ["Harry Potter", "Twilight", "Percy Jackson (Disney Series)", 
 
 array = favorite_movies.length
 
-puts "My favorite movies are #{favorite_movies} and the length of the array is = #{array}."
+print "My favorite movies are #{favorite_movies} and the length of the array is = #{array}."
