@@ -2,4 +2,4 @@
 
 students = { student1: { math: 85, english: 90 }, student2: { math: 78, english: 92 } }
 
-puts "The English grade of the second student is #{students[:student2][:english]}."
+print "The English grade of the second student is #{students[:student2][:english]}."
