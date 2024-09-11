@@ -8,9 +8,9 @@ integer_value = number.to_i
 if integer_value >= 1
   puts "The number #{integer_value} is positive."
 elsif integer_value <= -1
-  puts "The number #{integer_value} is negative."
+  puts "The number #{integer_value} is not positive."
 elsif integer_value == 0
-  puts "The number #{integer_value} is neutral"
+  puts "The number #{integer_value} is neutral."
 else
   "Null"
 end
