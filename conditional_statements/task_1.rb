@@ -12,5 +12,5 @@ elsif integer_value <= -1
 elsif integer_value == 0
   puts "The number #{integer_value} is neutral."
 else
-  "Null"
+  "Null "
 end
