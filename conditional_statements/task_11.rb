@@ -8,7 +8,7 @@ if number >= 1
 elsif number <= -1
   puts "The number #{number} is negative."
 elsif number == 0
-  puts "The number #{number} is neutral."
+  puts "The number #{number} is neutral. "
 else
   "Null "
 end
