@@ -3,7 +3,7 @@
 puts "How many times to iterate?"
 iterations = gets.to_i
 
-puts "Enter a word:"
+puts "Enter a word: "
 
 word = gets.chomp
 iterations.times { puts word }
