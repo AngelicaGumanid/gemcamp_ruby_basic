@@ -2,6 +2,6 @@
 
 sum = 0
 
-100.times { |i| sum += (i + 1) }
+100.times {|i| sum += (i + 1)}
 
 puts sum
