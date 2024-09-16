@@ -4,4 +4,4 @@ print "Enter a number: "
 
 number = gets.to_i
 
-number.times { |i| puts "This is iteration number #{i + 1}" }
+number.times { |i| puts "This is iteration number #{i + 1}"}
